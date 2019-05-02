@@ -1,0 +1,39 @@
+.banner{
+    font-size: 30px;
+    background-color: darkred
+
+}
+
+h1{
+    color: lightgray;
+ }
+
+.content{
+    background-image: url('images2/killer.png');
+    height: 1400px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.main {
+    background-image: url('images2/dead3.png') ;
+}
+
+
+.intro {
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+nav {
+  text-align: center;
+  font-size: 20px;
+  background-color: black;
+  width: 200px;
+
+}
+
+h2 {
+  color: red;
+}
